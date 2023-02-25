@@ -1,0 +1,15 @@
+# GIT
+.git
+.gitingnore
+
+# DOCKER
+.DOCKER
+
+# PYTHON
+app/__pycache__/
+app/*/__pycache__/
+app/*/*/__pycache__/
+app/*/*/*/_pycache__/
+.env/
+.venv/
+venv/
